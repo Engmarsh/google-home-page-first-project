@@ -1,0 +1,12 @@
+body {
+    background-color: green; color: white;
+}
+
+#firts-div {
+    background-color: pink;
+}
+
+
+.paragraph{
+    color: black; font-size: 2rem;
+}
